@@ -1,6 +1,6 @@
-# Financial Goals!
+# Financial Goals
 
-[Financial Goals](financial.jpg.jpg)
+![Financial Goals](financial.jpg.jpg)
 
 Five years after graduation, I hope to be financially independent and in a much better financial position. I want to have a secure career, multiple sources of income, and a significant quantity of money saved and invested.
 

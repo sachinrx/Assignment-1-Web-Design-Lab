@@ -1,6 +1,6 @@
-# Personal Growth!
+# Personal Growth
 
-[Personal Growth](personal.jpg.jpg)
+![Personal Growth](personal.jpg.jpg)
 
 Five years after graduation, I want to be more disciplined, confident, and self-sufficient. I want to develop even better routines for time management, being healthy, and balancing work and personal life.
 
