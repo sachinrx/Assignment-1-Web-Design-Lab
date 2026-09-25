@@ -1,1 +1,7 @@
-Research here
+# Education Goals and Learning Outcomes
+
+My own goals are already focused on what I want my life to look like five years after graduation, such as being a successful person, becoming financially stable, continuing to grow as a person, and having the freedom to have new experiences. These goals are comparable to what Susan F. Belgrad discusses in her chapter on portfolios and e-portfolios. According to Belgrad, portfolios allow students to demonstrate their accomplishments and growth while also commenting on their work, assessing their own progress, and creating new goals. This relates to my goals since completing this portfolio lets me reflect on where I am now and what I hope to accomplish even more in the future. However, my academic goals are more focused on learning, reflection, and using my current skills, but my personal goals stretch beyond school to include my profession, finances, personal development, and lifestyle. The skills I'm learning in Web Design, such as HTML, web publishing, and creating an online portfolio, will help me further my career goals after graduation.
+
+## Reference
+
+Belgrad, S. F. (2013). *Portfolios and e-portfolios: Student reflection, self-assessment, and goal setting in the learning process*. In J. H. McMillan (Ed.), SAGE Handbook of Research on Classroom Assessment* (pp. 331–346). SAGE Publications.
